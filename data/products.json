@@ -1,0 +1,17 @@
+data = {
+  "category1": [
+    {
+      "product_name": "Davidoff",
+      "quantity": "100g"
+      "tcs_price": 420,
+      "cut_price": 465,
+      "full_image_path": "img/davidoff_full.jpg"
+    },{
+      "product_name": "Starbucks Blonde Expresso Roast",
+      "quantity": "200g"
+      "tcs_price": 1050,
+      "cut_price": 1250,
+      "full_image_path": "img/starbucks_blonde_expresso_roast_full.jpg"
+    }
+  ]
+}
